@@ -1,0 +1,34 @@
+/* .main_body {
+	width: 100%;
+	height: 500px;
+	background: blue;
+	text-align: center;
+
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.9)), url('image1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	justify-content: center;
+	
+}
+.main_body h2 {
+	font-size: 50px;
+	color: white;
+}
+.main_body p {
+	color: white;
+	font-weight: bold;
+	font-size: 20px
+}
+
+.btn1 button {
+	padding: 10px;
+	border-radius: 10px;
+	border-color: transparent;
+
+
+
+
+} */

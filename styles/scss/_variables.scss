@@ -1,0 +1,22 @@
+
+// COLOURS
+$backgroundColor : rgb(129, 22, 22) ;
+$textColor: black;
+$header: rgb(190, 98, 11);
+
+// FONTS
+$titleFonts:'Courier New', Courier, monospace;
+
+// button
+@mixin CenterBtn {
+    background-color: $header;
+    display: inline;
+    padding: 10px;
+    margin: 1rem 0rem;
+    border-radius: 5px;
+    color: white;
+    border-style: none;
+
+
+    
+}
